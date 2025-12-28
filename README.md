@@ -35,9 +35,9 @@ Key Findings from EDA and Visualizations
 •	Age Distribution: Majority of employees are in their 30s. There is a noticeable decline in employees above 50, suggesting retirement or attrition.
 •	Monthly Income: Most employees earn below 7500, showing a skew towards lower-income jobs, which may impact satisfaction.
 •	Correlation Insights:
-o	Job Level and Monthly Income show a strong positive correlation.
-o	Total Working Years is positively correlated with Job Level, indicating experience is valued.
-o	Weak correlation between satisfaction level and performance rating, suggesting other factors might influence satisfaction.
+1	Job Level and Monthly Income show a strong positive correlation.
+2	Total Working Years is positively correlated with Job Level, indicating experience is valued.
+3	Weak correlation between satisfaction level and performance rating, suggesting other factors might influence satisfaction.
 
 Factors Strongly Correlated with Satisfaction and Performance
 •	Job Level and Monthly Income influence satisfaction indirectly, as low salary can cause dissatisfaction.
